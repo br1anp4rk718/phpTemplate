@@ -1,0 +1,41 @@
+.bc-player-default_default:hover .vjs-big-play-button {
+	background-color: rgba(0, 0, 0, .45);
+}
+
+.vjs-dock-text {
+	display: none;
+}
+
+.vjs-fullscreen-control {
+	display: none !important;
+}
+
+.vjs-picture-in-picture-control {
+	display: none !important;
+}
+
+.vjs-time-control {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+.bc-player-default_default .vjs-big-play-button {
+	font-size: 9em;
+	background-color: unset !important;
+}
+
+.bc-player-default_default .vjs-play-progress,
+.bc-player-default_default .vjs-volume-level {
+	background-color: #6d7f96 !important;
+}
+
+.vjs-duration,
+.vjs-time-divider {
+	display: flex !important;
+}
+
+.vjs-time-divider,
+.vjs-current-time,
+.vjs-duration {
+	padding: 0 !important;
+}

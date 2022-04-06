@@ -1,0 +1,38 @@
+@font-face {
+	font-family: "Atlas Typewriter Light";
+	src: url("https://cdn.gundrymd.com/fonts/AtlasTypewriter-Light.otf");
+}
+
+@font-face {
+	font-family: "Atlas Grotesk Light";
+	src: url("https://cdn.gundrymd.com/fonts/AtlasGrotesk-Light.otf");
+}
+
+@font-face {
+	font-family: "Proxima Nova Light";
+	src: url("https://cdn.gundrymd.com/fonts/ProximaNova-Light.otf");
+}
+
+@font-face {
+	font-family: "Tiempos Headline Regular";
+	src: url("https://cdn.gundrymd.com/fonts/TiemposHeadline-Regular.otf");
+}
+
+@font-face {
+	font-family: "Tiempos Headline Medium";
+	src: url("https://cdn.gundrymd.com/fonts/TiemposHeadline-Medium.otf");
+}
+
+@font-face {
+	font-family: "Tiempos Headline Semibold";
+	src: url("https://cdn.gundrymd.com/fonts/TiemposHeadline-Semibold.otf");
+}
+
+:root {
+	--proximaLight: "Proxima Nova Light", sans-serif;
+	--tiemposRegular: "Tiempos Headline Regular", Georgia, Times, "Times New Roman", serif;
+	--tiemposMedium: "Tiempos Headline Medium", Georgia, Times, "Times New Roman", serif;
+	--tiemposSemibold: "Tiempos Headline Semibold", Georgia, Times, "Times New Roman", serif;
+	--atlasTypewriter: "Atlas Typewriter Light", Helvetica, Arial, sans-serif;
+	--atlasGrotesk: "Atlas Grotesk Light", Helvetica, Arial, sans-serif;
+}

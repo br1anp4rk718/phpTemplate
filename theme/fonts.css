@@ -1,3 +1,5 @@
+/* make sure to change CDN based off the brand */
+
 @font-face {
 	font-family: "Atlas Typewriter Light";
 	src: url("https://cdn.gundrymd.com/fonts/AtlasTypewriter-Light.otf");
